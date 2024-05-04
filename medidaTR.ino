@@ -44,16 +44,19 @@ LiquidCrystal lcd(rs,e,d4,d5,d6,d7);
 #define pin2 A4
 #define pin3 A5//izq = pin1     medio =  pin2         der = pin3
 
+//izq = Vpin1     medio =  Vpin2         der = Vpin3
 #define Vpin1 A0
 #define Vpin2 A1
-#define Vpin3 A2//izq = Vpin1     medio =  Vpin2         der = Vpin3
+#define Vpin3 A2
 
-#define Rbaja1 4
-#define Rbaja3 3//izq = Rbaja1       der = Rbaja3
+//izq = Rbaja1       der = Rbaja3
+#define Rbaja1 4      //4.7k    
+#define Rbaja3 3      //4.7K
 
-#define Ralta1 7
-#define Ralta2 6
-#define Ralta3 5//izq = Ralta1     medio =  2         der = Ralta3
+//izq = Ralta1     medio =  2         der = Ralta3
+#define Ralta1 7      //2k
+#define Ralta2 6      //1M
+#define Ralta3 5      //2k
 
 #define BTN 2
 
