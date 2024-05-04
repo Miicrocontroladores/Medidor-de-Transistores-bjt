@@ -53,7 +53,7 @@ LiquidCrystal lcd(rs,e,d4,d5,d6,d7);
 #define Rbaja1 4      //4.7k    
 #define Rbaja3 3      //4.7K
 
-//izq = Ralta1     medio =  2         der = Ralta3
+//izq = Ralta1     medio =  Ralta2         der = Ralta3
 #define Ralta1 7      //2k
 #define Ralta2 6      //1M
 #define Ralta3 5      //2k
