@@ -28,6 +28,6 @@ Caracteristicas:
 
 Videos explicativos:
 
-           Parte1 (Identificacion de pines): https://youtu.be/ACK3sO2WLIM?si=jswOfLRlMWFbyEv8
-           Parte2 (Beta y Vaf): https://youtu.be/Rnnn5INWfOA?si=XGIej5ANNT5e0Val
-           Parte3 (Montaje y simulación): https://youtu.be/tw4C0lsTOOY?si=ym84rKbleI76VE9X
+           Parte1 (Identificacion de pines): <a href="https://youtu.be/ACK3sO2WLIM?si=jswOfLRlMWFbyEv8">link</a>
+           Parte2 (Beta y Vaf): <a href="https://youtu.be/Rnnn5INWfOA?si=XGIej5ANNT5e0Val">link</a>
+           Parte3 (Montaje y simulación): <a href="https://youtu.be/tw4C0lsTOOY?si=ym84rKbleI76VE9X">link</a>
