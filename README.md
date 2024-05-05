@@ -27,6 +27,7 @@ Caracteristicas:
            Medicion de voltaje early (Vaf)
 
 Videos explicativos:
+
            Parte1 (Identificacion de pines): https://youtu.be/ACK3sO2WLIM?si=jswOfLRlMWFbyEv8
            Parte2 (Beta y Vaf): https://youtu.be/Rnnn5INWfOA?si=XGIej5ANNT5e0Val
            Parte3 (Montaje y simulación): https://youtu.be/tw4C0lsTOOY?si=ym84rKbleI76VE9X
